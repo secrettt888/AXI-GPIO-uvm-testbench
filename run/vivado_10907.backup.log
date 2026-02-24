@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Feb  6 18:20:23 2026
+# Process ID: 10907
+# Current directory: /ghome/atimpau/work_space/project-template/run
+# Command line: vivado sim/xsim.wdb
+# Log file: /ghome/atimpau/work_space/project-template/run/vivado.log
+# Journal file: /ghome/atimpau/work_space/project-template/run/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database sim/xsim.wdb
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2020.2/data/ip'.
+add_wave {{/top/tb_if}} 
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Feb  6 18:21:58 2026...

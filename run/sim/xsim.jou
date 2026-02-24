@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Feb  6 18:23:25 2026
+# Process ID: 12722
+# Current directory: /ghome/atimpau/work_space/project-template/run/sim
+# Command line: xsim -mode tcl -source {xsim.dir/work.top/xsim_script.tcl}
+# Log file: /ghome/atimpau/work_space/project-template/run/sim/xsim.log
+# Journal file: /ghome/atimpau/work_space/project-template/run/sim/xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/work.top/xsim_script.tcl
+source /ghome/atimpau/work_space/project-template/run/sim/run_batch.tcl

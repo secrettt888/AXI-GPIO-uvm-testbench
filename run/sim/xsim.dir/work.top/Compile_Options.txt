@@ -1,0 +1,1 @@
+"work.top" -L "uvm" -debug "typical" -timescale "1ns/1ps" 
