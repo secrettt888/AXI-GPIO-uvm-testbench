@@ -3,10 +3,6 @@
 ## 📌 Overview
 This repository contains a fully automated **Universal Verification Methodology (UVM)** environment for an AXI-GPIO (General Purpose Input/Output) IP block. 
 
-The project utilizes a **mixed-language simulation flow**:
-* **Design Under Test (DUT):** Written in **VHDL** (Auto-generated and imported via a Vivado IP generation script).
-* **UVM Testbench:** Written in **SystemVerilog**.
-
 ## 🏗️ UVM Testbench Architecture
 
 
